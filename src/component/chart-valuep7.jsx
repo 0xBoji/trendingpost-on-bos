@@ -464,7 +464,7 @@ const Table = () => {
       </Wap>
     </>
   );
-};updateupdateupdate
+};
 update
 update
 return (
