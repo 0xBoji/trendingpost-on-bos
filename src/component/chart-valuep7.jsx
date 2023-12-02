@@ -467,7 +467,7 @@ const Table = () => {
 };
 
 
-updateupdateupdateupdateupdate
+update
 return (
   <>
     <Table />
